@@ -35,9 +35,9 @@ This project brings the timeless Snake experience with smooth controls, a retro-
 ## 📦 Download & Run (Windows)
 
 1. Go to the **Releases** section  
-2. Download **Snake Rewind v1.0 (Windows)**  
+2. Download **Snake Rewind (Windows)**  
 3. Extract the archive  
-4. Run `SnakeRewind.exe`  
+4. Run `Snake Rewind.exe`  
 
 > ✅ No Java installation required — bundled with JRE  
 
@@ -59,11 +59,9 @@ This project brings the timeless Snake experience with smooth controls, a retro-
 SnakeRewind/
 ├── src/
 │   └── Java source files
-├── lib/
 ├── manifest.txt
 ├── README.md
 ├── SnakeRewind.jar
-└── assets/
 ```
 
 ---
