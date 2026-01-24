@@ -1,0 +1,5 @@
+/bin/
+/.vscode/
+/Exe
+*.exe
+*.class
