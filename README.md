@@ -17,6 +17,15 @@ This project brings the timeless Snake experience with smooth controls, a retro-
 
 ---
 
+## 📸 Screenshots
+
+<div style="display: flex; overflow-x: auto; gap: 12px; padding-bottom: 8px;">
+  <img src="screenshots/menu.png" height="220"/>
+  <img src="screenshots/gameplay.png" height="220"/>
+  <img src="screenshots/pause_menu.png" height="220"/>
+  <img src="screenshots/game_over_screen.png" height="220"/>
+</div>
+
 ## 🕹️ Controls
 
 | Action | Key |
@@ -57,6 +66,7 @@ This project brings the timeless Snake experience with smooth controls, a retro-
 
 ```text
 SnakeRewind/
+├── screenshots
 ├── src/
 │   └── Java source files
 ├── manifest.txt
